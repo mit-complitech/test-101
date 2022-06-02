@@ -1,2 +1,3 @@
-This os chapter 1 of learning Ubuntu linux
+This os chapter 1 of learning Ubuntu linux. But The new version.
+
 
